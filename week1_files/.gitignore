@@ -6,7 +6,7 @@
 /penguins_chinstrap.csv
 /penguins_gentoo.csv
 /sex_data_penguins.csv
-
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
