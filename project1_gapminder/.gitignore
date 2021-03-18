@@ -139,4 +139,7 @@ dmypy.json
 
 #Large files
 .jar
-.csv
+*.csv
+*.png
+
+.ipynb_checkpoints
