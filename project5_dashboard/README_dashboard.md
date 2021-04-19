@@ -72,10 +72,8 @@ The plot displays the covid-19 deaths and ICU occupancy. Berlin public authoriti
 <br>
 #### Covid-19 cases per borough
 Distribution of the covid-19 cases according to the Berlin borough in which they were registered. Due to limitations in the metabase software, it was not possible to insert a map of the Berlin boroughs. A link to an open source is provided.
-<br>
 ![Covid-19 cases per borough](image6.png)
 <br>
 
-<br>
 ## Dashboard as data stories
 By examining the dashboard, it becomes evident that the covid pandemics did not hit Berlin much for the first months (March 2020 to April 2020), but since October 2020, the situation has significantly deteriorated. A weekly incidence of covid cases superior to 200 has been recorded for many age groups and the pressure on the ICUs of the local hospitals has sensibly increased reaching critical levels at times. Quite significantly, the recorded deaths from March 2020 to September 2020 were slightly more than 200. By the end of December 2020, this number had reached quota 1271 and, by the end of February 2021, the covid deaths in town exceeded 2800.
