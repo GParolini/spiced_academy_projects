@@ -77,7 +77,7 @@ The plot displays the covid-19 deaths and ICU occupancy. Berlin public authoriti
 <div style="text-align: justify">
 Distribution of the covid-19 cases according to the Berlin borough in which they were registered. Due to limitations in the metabase software, it was not possible to insert a map of the Berlin boroughs. A link to an open source is provided.
 </div>
-![Covid-19 cases per borough](/Users/giudittaparolini/Documents/Bootcamp/vanilla-vectors-student-code/project5_dashboard/image6.png)
+![Covid-19 cases per borough](/image6.png)
 
 ## Dashboard as data stories
 <div style="text-align: justify">
