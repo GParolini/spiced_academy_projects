@@ -69,7 +69,6 @@ The plot displays the covid-19 deaths and ICU occupancy. Berlin public authoriti
 ![Covid-19 deaths and ICU occupancy](image5.png)
 <br>
 
-<br>
 #### Covid-19 cases per borough
 Distribution of the covid-19 cases according to the Berlin borough in which they were registered. Due to limitations in the metabase software, it was not possible to insert a map of the Berlin boroughs. A link to an open source is provided.
 ![Covid-19 cases per borough](image6.png)
