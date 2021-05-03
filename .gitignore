@@ -1,3 +1,13 @@
+# data files
+large_countries_2015.csv
+Penguins_simple_giuditta.csv
+continents.csv
+penguins_adelie.csv
+penguins_chinstrap.csv
+penguins_gentoo.csv
+sex_data_penguins.csv
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,6 +141,8 @@ dmypy.json
 #MacOS
 .DS_Store
 
-#Large files 
+#Large files
 .jar
-.csv
+*.csv
+
+.ipynb_checkpoints
