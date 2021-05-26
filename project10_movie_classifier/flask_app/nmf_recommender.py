@@ -33,7 +33,6 @@ def nmf_recommendations(form_data):
     my_rec_sel = my_rec.columns[0:50].to_list()
     rec_lst = random.sample(my_rec_sel, 5)
 
-
     user_rec_lst = []
     for key in rec_lst:
         movie_title = movies_dict[key]
